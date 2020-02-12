@@ -1,5 +1,6 @@
 # meu-primeiro-app
 Repositório para aprendizado e testes.
+LALALALALA.
 
 # Mudança do Bruno
 Lalalala
